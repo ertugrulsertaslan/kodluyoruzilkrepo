@@ -7,14 +7,14 @@ Bu repo [Kodluyoruz]() Front-End eğitiminde oluşturduğumuz ilk repo. İçeris
 ` git clone https://github.com/ertugrulsertaslan/kodluyoruzilkrepo.git `
 # Usage 
 Projeyi cloneladıktan sonra Visual Studio Code Programında açınız 
-Linuz için : 
-` ` ` 
+Linux için : 
+`  
 cd kodluyoruzilkrepo
 code.
-` ` ` 
+`  
 # Contributing
 Pull requesler kabul edilir. Büyük değişiklikler için.lütfen önce neyi değiştirmek istediğinizi tartışmak için bir konu açınız
 
 # License
-[MIT][]
+[MIT]()
 
